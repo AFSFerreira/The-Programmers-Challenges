@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
 [![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![Status](https://img.shields.io/badge/Status-In%20Progress-512BD4?style=for-the-badge)](#)
+[![Status](https://img.shields.io/badge/Finished-512BD4?style=for-the-badge)](#)
 
 ---
 
