@@ -25,7 +25,7 @@ Each solved challenge is organized into dedicated folders, containing:
 
 ## 🌐 Official Challenges
 The complete set of active challenges can be found on the official website:  
-🔗 [Challenges List - Os Programadores](https://osprogramadores.com/desafios/)
+🔗 [Challenges List - Os Programadores](https://osprogramadores.com/desafios/) <br>
 🔗 [Challenges Repository - Os Programadores](https://github.com/OsProgramadores/op-desafios)
 
 ---
